@@ -1,0 +1,6 @@
+# Chỉ đưa lên giao diện HTML và sơ đồ draw.io; bỏ qua báo cáo .docx/.pdf
+/*
+!/.gitignore
+!/README.md
+!/pod-design-ui/
+!/so-do-drawio/
